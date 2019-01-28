@@ -1,12 +1,12 @@
 {
-  "id": "gmail",
-  "name": "Gmail",
-  "version": "1.1.1",
-  "description": "Gmail",
+  "id": "zoho",
+  "name": "Zoho Mail",
+  "version": "0.5",
+  "description": "Zoho Mail",
   "main": "index.js",
-  "author": "Stefan Malzner <stefan@adlk.io>",
+  "author": "Jérémy Landon <contact@jeremylandon.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://mail.google.com"
+    "serviceURL": "https://mail.zoho.com/"
   }
 }
